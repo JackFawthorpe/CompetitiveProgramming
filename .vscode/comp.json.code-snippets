@@ -19,5 +19,34 @@
 			"}",
         ], 
         "description": "C++ Snippet"
-      } 
+      }, 
+	  "Given Test Count 0 based": {
+		"prefix": "fortest",
+		"body": [
+			"int tests;",
+			"cin >> tests;",
+			"",
+			"",
+			"",
+			"for (int test = 0; test < tests; test++) {",
+			"",
+			"}",
+		  ]
+	  },
+	  "Given Test Count 1 based": {
+		"prefix": "forcase",
+		"body": [
+			"int tests;",
+			"cin >> tests;",
+			"",
+			"",
+			"",
+			"for (int test = 1; test <= tests; test++) {",
+			"	cout << \"Case \" << test << \": \";",
+			"",
+			"	cout << \"\\n\";",
+			"}",
+		  ]
+	  }
+	  
 }
