@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "regex": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
     }
 }
