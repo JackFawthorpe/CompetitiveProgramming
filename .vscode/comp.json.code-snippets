@@ -8,6 +8,10 @@
 			"using namespace std;",
 			"",
 			"typedef long long ll;",
+			"int tempInt;",
+			"string tempString;"
+			"ll tempLong;"
+			"double tempDouble;"
 			"",
 			"int main()",
 			"{",
