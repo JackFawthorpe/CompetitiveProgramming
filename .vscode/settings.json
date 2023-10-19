@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "12545": "cpp",
         "bitset": "cpp",
         "regex": "cpp",
         "typeindex": "cpp",
@@ -17,6 +18,8 @@
         "initializer_list": "cpp",
         "span": "cpp",
         "any": "cpp",
-        "ranges": "cpp"
+        "ranges": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp"
     }
 }
